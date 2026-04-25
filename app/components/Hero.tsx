@@ -247,7 +247,7 @@ export default function Hero() {
           <a href="/Navya_Abrol_Resume.pdf" download className="btn-primary" style={{ background: "var(--gold)", fontSize: "0.75rem", padding: "14px 32px" }}>
             Download Resume
           </a>
-          <a href="#projects" className="btn-secondary" style={{ fontSize: "0.75rem", padding: "14px 32px" }}>
+          <a href="projects" className="btn-secondary" style={{ fontSize: "0.75rem", padding: "14px 32px" }}>
             View Work
           </a>
         </div>
