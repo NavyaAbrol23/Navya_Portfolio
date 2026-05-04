@@ -95,7 +95,7 @@ export default function Hero() {
           transition: mounted ? "opacity 1.4s cubic-bezier(0.16,1,0.3,1)" : "none",
         }}>
           <Image
-            src="/navya-nobg.png"
+            src="/navya_portfolio.jpg"
             alt="Navya Abrol"
             fill
             style={{

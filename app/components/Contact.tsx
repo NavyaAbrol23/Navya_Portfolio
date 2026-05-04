@@ -153,7 +153,7 @@ export default function Contact() {
             letterSpacing: "0.14em",
             textTransform: "uppercase",
           }}>
-            TIET, Patiala · 2024
+            TIET, Patiala
           </div>
         </div>
       </div>
